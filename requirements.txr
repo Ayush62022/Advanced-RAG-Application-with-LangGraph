@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain_community
+langchain_experimental
+langchain_core
+langchain_groq
+langgraph
+pymupdf
+langchain_google_vertexai
+tiktoken
+sentence_transformers
+chromadb
+langgraph
